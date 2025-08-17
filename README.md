@@ -146,6 +146,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
+- [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) _(label: good first issue)_ <br> Open source alternative to Linktree. Showcase your links and connect with the community.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good first issue)_ <br> Desktop browser for macOS, Windows, and Linux.
 - [Check It Out](https://github.com/jwu910/check-it-out) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
